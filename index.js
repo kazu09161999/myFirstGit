@@ -1,5 +1,5 @@
 
-console.log("Hello World");
+console.log("Hello World and conflict");
 
 var sum = function (a, b) {
   return a + b;
